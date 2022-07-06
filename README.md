@@ -7,7 +7,7 @@ Powered by *[fontawesome](https://fontawesome.com/)*
 
 `<head>`
 
-><link rel="stylesheet" href="https://cusmedroid.github.io/fontawesome-4/css/font-awesome.min.css">
+`<link rel="stylesheet" href="https://cusmedroid.github.io/fontawesome-4/css/font-awesome.min.css">`
 
 `</head>`
 
